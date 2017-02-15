@@ -12,6 +12,6 @@ public class test2 {
 		}
 		}
 
-	
+
 
 }
