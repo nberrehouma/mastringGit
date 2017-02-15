@@ -14,5 +14,7 @@ public class Test {
 	 System.out.println("hello3");
 	 System.out.println("hello3");
 	 System.out.println("hello3");
+		for(int i=0;i<=10; System.out.println(i++));
+
  }
 }
