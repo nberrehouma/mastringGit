@@ -7,6 +7,8 @@ public class test2 {
 		System.out.println("hello");
 		
 		// une mise a jour dans la branche Master
+		
+		for(int i=0;i<=10; System.out.println(i++));
 	}
 
 }
